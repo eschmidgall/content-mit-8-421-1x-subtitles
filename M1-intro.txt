@@ -356,7 +356,7 @@ or whatever defines fundamental constants,
 is changing as a function of time.
 So the question is, will it be during your lifetime,
 or will it even be during, maybe your Ph.D.,
-that one researcher says, we now have a [INAUDIBLE]
+that one researcher says, we now have an error bar
 and we find out, that yes, we measure
 the fundamental constant using the most accurate atomic clock,
 and a year later, we've measured something which is a tiny bit,
