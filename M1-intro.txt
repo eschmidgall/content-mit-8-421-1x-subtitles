@@ -391,7 +391,7 @@ When we look at typical resonance,
 we have a frequency omega, the resonance frequency omega
 naught.
 
-And we measure line with standard omega.
+And we measure line with delta omega.
 In many cases-- and we will discuss them in great detail--
 the line shape is the Lorentzian.
 And the Lorentzian is the imaginary part
